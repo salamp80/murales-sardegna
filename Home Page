@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murales in Sardegna</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Murales della Sardegna</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="mappa.html">Mappa</a>
+            <a href="galleria.html">Galleria</a>
+            <a href="contatti.html">Contatti</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Benvenuti!</h2>
+            <p>Scopri i murales più belli della Sardegna: tradizioni, cultura e arte urbana si incontrano.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2024 - Murales Sardegna</p>
+    </footer>
+</body>
+</html>
